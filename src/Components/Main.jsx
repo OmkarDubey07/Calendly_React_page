@@ -8,7 +8,7 @@ const Main = () => {
   ];
 
   return (
-    <div className="px-4 max-sm:mx-4 py-6 place-items-center justify-center bg-mainTheme  lg:mx-0 grid grid-cols-1 lg:grid-cols-2 gap-8">
+    <div className="px-4 max-sm:mx-4 py-6 place-items-center justify-center bg-mainTheme   lg:mx-0 grid grid-cols-1 lg:grid-cols-2 gap-8">
       <div>
         <div>
           <nav aria-label="breadcrumb">
